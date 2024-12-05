@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/pcty" mode="merge"/>
+    <filter root="/content/pcty" mode="merge"/>
+    <filter root="/content/dam/pcty" mode="merge">
+        <exclude pattern="/content/dam/pcty(/.*)?"/>
+        <include pattern="/content/dam/pcty/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/pcty/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/pcty" mode="merge"/>
+</workspaceFilter>
