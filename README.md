@@ -25,10 +25,12 @@ Enhance the existing "Cat Fact" Component to fetch and display random cat facts 
 - Use best practices for AEM component development.
 - Ensure the component is reusable and follows AEM conventions.
 - The component should handle errors gracefully (e.g., API unavailability).
+- Add styling to make the component visually appealing.
+  - Example: ![img.png](img.png)
 
 ## Bonus Points
 - Implement a fallback message if the API request fails.
-- Add styling to make the component visually appealing.
+- Add style system to change the appearance.
 - Write a unit test for the functionality.
 
 ## Submission
