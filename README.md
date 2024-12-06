@@ -9,7 +9,7 @@ Enhance the existing "Cat Fact" Component to fetch and display random cat facts 
 
 2. **Update Component**  
    Modify the existing "Cat Fact" Component to:
-    - Display the random cat fact.
+    - Display the random Cat Fact.
     - Display the date the fact was created below the fact.
 
 3. **Integration**
