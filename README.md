@@ -1,11 +1,11 @@
 # AEM Coding Challenge: Cat Fact Component
 
 ## Objective
-Enhance the existing "Cat Fact" Component to fetch and display random cat facts using the [Cat Facts API](https://publicapis.io/cat-facts-api).
+Enhance the existing "Cat Fact" Component to fetch and display random cat facts using the [Cat Facts API](https://catfact.ninja/#/Facts/getRandomFact).
 
 ## Task Description
 1. **Fetch Data**  
-   Use the [Cat Facts API](https://publicapis.io/cat-facts-api) to retrieve a random cat fact.
+   Use the [Cat Facts API](https://catfact.ninja/#/Facts/getRandomFact) to retrieve a random cat fact.
 
 2. **Update Component**  
    Modify the existing "Cat Fact" Component to:
